@@ -4,7 +4,7 @@ function Navbar(){
   return (
     <nav >
       <div className="container">
-        <h1>MyDemoApp</h1>
+        <h1>Meedah DemoApp</h1>
         <ul >
           <li><Link to="/">Home</Link></li>
           <li><Link to="/about">About</Link></li>
